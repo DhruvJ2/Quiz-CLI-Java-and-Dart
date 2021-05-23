@@ -1,0 +1,40 @@
+[ 
+    {
+            "questions":[
+                            "What is a correct syntax to output \"Hello World\" in java?",
+                            "How should a Text be stored in Java?",
+                            "To declare an Array in Java , define the variable type with..?",
+                            "Which keyword is used to import a package from the Java API library?"
+                        ],
+            "options" : [
+                            ["System.out.println(\"Hello World \");", "print(\"Hello World\");" , "echo \"Hello World\"" ,"console.log(\"Hello World\");"],
+                            ["Txt" , "string" ,"myString" , "String"],
+                            ["{ }" ,"[ ]","( )" ,"\" \""],
+                            ["lib" ,"getlib","import","package"]
+                        ],
+            "answers":[
+                        "System.out.println(\"Hello World \");" ,
+                        "String",
+                        "{ }",
+                        "import"
+                    ]       
+    },
+
+    {
+             "questions":[
+                            "Which keyword is used to create a class in Dart?",
+                            "How would you create an interface in Dart?",
+                            "Which datatypes are applicable in Dart?"
+                         ],
+              "options" : [
+                                ["def","class","new","Class"],
+                                ["Use interface keyword","Use abstract class","Dart doesn't support interface","None of the above"],
+                                ["String", "Integer" , "Boolean","None"]
+                            ], 
+             "answers":[
+                            ["class"],
+                            ["Use abstract class","Dart doesn't support interface"],
+                            ["String" ,"Integer","Boolean"]
+                        ] 
+    }
+]
